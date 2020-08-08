@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var count = 0
 
     @IBOutlet weak var githubtest: UILabel!
     override func viewDidLoad() {
